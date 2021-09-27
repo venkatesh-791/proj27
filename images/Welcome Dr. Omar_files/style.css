@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    float: left;
+    padding-right: 30px;   
+}
+
+.logo{
+    width: 80px;
+    margin: 4px 0px 0px 80px;
+    flex: 60%;
+    display: flex;
+}
+#logmenu{
+    padding-top: 60px;  
+    float: left; 
+}
+#tit{
+    font-size: 30px;   
+    text-indent: 50px;  
+    position: relative;   
+    top: 55px;
+}
+#prof{
+    width: 80px;
+    position: relative;
+    right: 200px;
+    margin-left: 0pt;
+    float: left;
+    padding-top: 100px;
+}
+#prtext{
+    font-size: 20px;
+    position: relative;
+    right: 828px;
+    padding-top: 200px;  
+    text-align: center;   
+}
+.quick{
+    font-size: 25px;
+    color: orange;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    border-color: peru;
+    border
+    width: 200px;    
+}
+
+.sidebar{
+    font-size: 25px;
+    position: relative;  
+    left: 50px;
+    top: 30px;
+    line-height: 50px;
+    
+}

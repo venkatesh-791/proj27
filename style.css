@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+li{
+    list-style-type: none;
+}
+img{
+    float: left;
+    padding-right: 30px;   
+}
+
+.logo{
+    width: 80px;
+    margin: 4px 0px 0px 80px;
+    flex: 60%;
+    display: flex;
+}
+#logmenu{
+    padding-top: 60px;  
+    float: left; 
+}
+#tit{
+    font-size: 30px;   
+    text-indent: 50px;  
+    position: relative;   
+    top: 55px;
+}
+#prof{
+    width: 80px;
+    position: relative;
+    right: 200px;
+    margin-left: 0pt;
+    float: left;
+    padding-top: 100px;
+}
+#prtext{
+    font-size: 20px;
+    position: relative;
+    right: 828px;
+    padding-top: 200px;  
+    text-align: center;   
+}
+.quick{
+    font-size: 25px;
+    color: orange;
+    position: relative;
+    left: 50px;
+    top: 20px;
+    border: 2px solid orange;
+    text-align: center; 
+    border-radius: 7px;
+    width: 160px;        
+}
+.quick:hover{
+    background-color: tomato;
+}
+
+#sidebar{
+    font-size: 25px;
+    position: relative;  
+    left: 50px;
+    top: 30px;
+    line-height: 50px; 
+    list-style-type: none;  
+}
+#sidebar li:hover{
+    color: tomato;
+    list-style-type: none;  
+}
+
+
+#foot{
+    text-align: left;
+    position: relative;
+    bottom: 2250px;
+    left: 350px
+}
+#Notif{
+    position: relative;   
+    top: -830px;
+    padding: 25px;  
+    background-color: rgba(240, 233, 233, 0.884);   
+    left: 300px; 
+    width: 1330px;
+    height:800px;
+    font-size: 25px; 
+     
+}
+#Clear{
+    font-size: 25px;
+    color: orange;
+    position: relative;
+    left: 1500px;
+    bottom: 1650px;  
+    background-color: white;
+    border: 2px solid orange;
+    border-radius: 5px;
+    width: 130px;
+    text-align: center;        
+}
+#Clear:hover{
+    background-color: tomato;
+}
+#mainn{
+    font-size: 25px;   
+    position: relative;  
+    left: 20px;  
+    bottom: 1830px;
+   
+    margin-top: 190px;
+    background-color: white;   
+    height: 750px;
+    left: 340px; 
+    width: 1300px;
+    text-align: 20px;
+}
+#maini{
+    font-size: 25px;
+    text-decoration: underline;
+    position: relative;
+    bottom: 2580px;
+    left:800px;
+ 
+}
+#hassan{
+    position: relative;
+    bottom: 2500px;
+    left: 400px;
+    font-size: 15px;   
+}
+#p{
+    position: relative;
+    bottom: 2522px;
+    left: 1500px;
+    font-size: 24px;
+}
+
+/* Media query for screen */
+@media  (max-width:768px){
+   
+}
+
